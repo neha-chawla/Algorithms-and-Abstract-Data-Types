@@ -1,0 +1,14 @@
+/*  Neha Chawla
+	nechawla
+	pa5
+	README
+*/
+
+README - Lists all submitted files
+Makefile - Makes the executables GraphTest & FindComponents, also has a clean utility
+Graph.h - Graph header file
+Graph.c - Graph implementation file
+List.h - List header file 
+List.c - List implementation file
+GraphTest.c - Testing file
+FindComponents.c - The main program, client of Graph module

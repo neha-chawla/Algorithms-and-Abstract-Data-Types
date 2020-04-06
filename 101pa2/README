@@ -1,0 +1,12 @@
+/*  Neha Chawla
+	nechawla
+	pa2
+	README
+*/
+	
+Lex.c - The client program
+List.c - List implementation file
+List.h - List header file 
+ListClient.c - Provided file, test client for List ADT 
+Makefile - Creates an executable Lex and cleans all object files
+README - Lists all submitted files with descriptions
